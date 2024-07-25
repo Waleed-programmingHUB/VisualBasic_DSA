@@ -298,5 +298,3 @@ graph.Display()
 ```
 
 ---
-
-These Markdown-formatted sections provide clear descriptions, use cases, and examples for each data structure. Let me know if you'd like more details or specific additions!
